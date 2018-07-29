@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.008,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\EuCO\Praca\Inne\Testy\SzukajWOpenOffice\OknoGlowne.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.008,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\EuCO\Praca\Inne\Testy\SzukajWOpenOffice\OknoGlowne.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.572,=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.017,=D:\EuCO\Praca\Inne\Testy\SzukajWOpenOffice\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.826,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\EuCO\Praca\Inne\Testy\SzukajWOpenOffice\Szukaj.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.599,D:\EuCO\Praca\Inne\Testy\SzukajWOpenOffice\PrzeszukajPliki.pas=D:\EuCO\Praca\Inne\Testy\SzukajWOpenOffice\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
